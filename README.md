@@ -1,4 +1,4 @@
-🧠 Data Science Portfolio: Combined Projects from Turing College
+# 🧠 A/B Testing Portfolio: Combined Projects from Turing College
 Welcome! This repository showcases three integrated projects developed during my studies at Turing College. Each project reflects a learning curve, with subsequent projects having received feedback from a mentorship team of employees from Google, IBM, Meta, and more top engineering companies. Each project reflects a distinct aspect of my data science skillset, including:
 
 🧹 Data Cleaning & Manipulation
